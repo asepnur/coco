@@ -1,0 +1,4 @@
+*.pyc
+*.pb.go
+*/venv
+sharing-grpc/greet_go/greetpb/greet.pb.go
